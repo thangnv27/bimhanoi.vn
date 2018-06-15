@@ -1,0 +1,2789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: consulting\n"
+"POT-Creation-Date: 2016-02-24 02:47+0500\n"
+"PO-Revision-Date: 2016-02-24 02:47+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_attr__;esc_html_e;esc_attr_e\n"
+"X-Poedit-Basepath: /Users/kharbiyanov/WEB/www/consulting.loc/wp-content/"
+"themes\n"
+"X-Poedit-SearchPath-0: consulting\n"
+
+#: consulting/404.php:11
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: consulting/404.php:15
+msgid "homepage"
+msgstr ""
+
+#: consulting/comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: consulting/comments.php:30
+msgid "Older Comments"
+msgstr ""
+
+#: consulting/comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: consulting/comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: consulting/footer.php:24
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+msgstr ""
+
+#: consulting/footer.php:54 consulting/inc/customizer/registration.php:508
+#: consulting/inc/customizer/registration.php:509
+msgid ""
+"Copyright &copy; 2012-2015 Consulting Theme by <a href='http://"
+"stylemixthemes.com/' target='_blank'>Stylemix Themes</a>. All rights reserved"
+msgstr ""
+
+#: consulting/functions.php:45
+msgid "Top Menu"
+msgstr ""
+
+#: consulting/functions.php:46
+msgid "Sidebar Menu 1"
+msgstr ""
+
+#: consulting/functions.php:47
+msgid "Sidebar Menu 2"
+msgstr ""
+
+#: consulting/functions.php:48
+msgid "Sidebar Menu 3"
+msgstr ""
+
+#: consulting/functions.php:60
+msgid "Right Sidebar"
+msgstr ""
+
+#: consulting/functions.php:69
+msgid "Left Sidebar"
+msgstr ""
+
+#: consulting/functions.php:79
+msgid "Shop Sidebar"
+msgstr ""
+
+#: consulting/functions.php:91
+msgid "Footer "
+msgstr ""
+
+#: consulting/functions.php:202 consulting/functions.php:203
+msgid "on"
+msgstr ""
+
+#: consulting/header.php:88 consulting/header.php:124
+#: consulting/header.php:202 consulting/inc/customizer/registration.php:280
+msgid ""
+"<strong>212 714 0177</strong>\n"
+"<span>Free call</span>"
+msgstr ""
+
+#: consulting/header.php:94 consulting/header.php:210
+#: consulting/inc/customizer/registration.php:267
+msgid ""
+"<strong>Mon - Sat 8.00 - 18.00</strong>\n"
+"<span>Sunday CLOSED</span>"
+msgstr ""
+
+#: consulting/header.php:102 consulting/header.php:218
+#: consulting/inc/customizer/registration.php:254
+msgid ""
+"<strong>1010 Avenue of the Moon</strong>\n"
+"<span>New York, NY 10018 US.</span>"
+msgstr ""
+
+#: consulting/searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: consulting/inc/extras.php:45
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: consulting/inc/extras.php:49
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: consulting/inc/extras.php:51
+msgid "out of 5"
+msgstr ""
+
+#: consulting/inc/extras.php:55
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: consulting/inc/extras.php:60
+msgid "Edit"
+msgstr ""
+
+#: consulting/inc/extras.php:67
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: consulting/inc/extras.php:90 consulting/inc/visual_composer.php:784
+msgid "Name"
+msgstr ""
+
+#: consulting/inc/extras.php:95
+msgid "E-mail"
+msgstr ""
+
+#: consulting/inc/extras.php:100
+msgid "Website"
+msgstr ""
+
+#: consulting/inc/extras.php:114
+msgid "Message"
+msgstr ""
+
+#: consulting/inc/extras.php:117
+msgid "post a comment"
+msgstr ""
+
+#: consulting/inc/extras.php:321
+msgid "Search Results"
+msgstr ""
+
+#: consulting/inc/extras.php:326
+msgid "Page not found"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:5
+#: consulting/inc/customizer/registration.php:297
+msgid "Service"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:6
+#: consulting/inc/visual_composer.php:1256
+#: consulting/inc/customizer/registration.php:291
+#: consulting/inc/customizer/registration.php:302
+msgid "Services"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:7
+#: consulting/inc/customizer/registration.php:307
+msgid "All Services"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:13
+#: consulting/inc/customizer/registration.php:329
+msgid "Vacancy"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:14
+#: consulting/inc/visual_composer.php:1148
+#: consulting/inc/customizer/registration.php:323
+#: consulting/inc/customizer/registration.php:334
+msgid "Vacancies"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:15
+#: consulting/inc/customizer/registration.php:339
+msgid "All Vacancies"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:21
+#: consulting/inc/post_types-config.php:22
+#: consulting/inc/customizer/registration.php:355
+#: consulting/inc/customizer/registration.php:361
+#: consulting/inc/customizer/registration.php:366
+msgid "Staff"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:23
+#: consulting/inc/customizer/registration.php:371
+msgid "All Staff"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:29
+#: consulting/inc/customizer/registration.php:393
+msgid "Work"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:30
+#: consulting/inc/customizer/registration.php:387
+#: consulting/inc/customizer/registration.php:398
+msgid "Works"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:31
+#: consulting/inc/customizer/registration.php:403
+msgid "All Works"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:37
+#: consulting/inc/customizer/registration.php:425
+msgid "Testimonial"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:38
+#: consulting/inc/visual_composer.php:692
+#: consulting/inc/customizer/registration.php:419
+#: consulting/inc/customizer/registration.php:430
+msgid "Testimonials"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:39
+#: consulting/inc/customizer/registration.php:435
+msgid "All Testimonials"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:47
+#: consulting/inc/customizer/registration.php:824
+#: consulting/inc/customizer/registration.php:869
+msgid "VC Sidebar"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:48
+#: consulting/inc/customizer/registration.php:808
+#: consulting/inc/customizer/registration.php:853
+msgid "VC Sidebars"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:49
+msgid "All Sidebars"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:88
+#: consulting/inc/post_types-config.php:89
+msgid "Categories"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:94
+msgid "Page Setup"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:97
+msgid "Title Box Options"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:101
+msgid "Disable Title Box"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:105
+msgid "Enable Transparent"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:109
+msgid "Title Color"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:113
+msgid "Title Line Color"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:117
+#: consulting/inc/customizer/registration.php:148
+#: consulting/partials/frontend_customizer.php:42
+msgid "Background Image"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:121
+msgid "Background Position"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:125
+msgid "Background Size"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:129
+msgid "Background Repeat"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:132
+msgid "Repeat"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:133
+msgid "No Repeat"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:134
+msgid "Repeat-X"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:135
+msgid "Repeat-Y"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:139
+msgid "Disable Title"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:143
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:147
+msgid "Enable Header Transparent"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:153
+#: consulting/inc/post_types-config.php:166
+#: consulting/inc/post_types-config.php:191
+#: consulting/inc/customizer/registration.php:248
+msgid "Information"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:156
+#: consulting/inc/visual_composer.php:377
+msgid "Position"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:160
+msgid "Company"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:169
+#: consulting/inc/post_types-config.php:194
+#: consulting/vc_templates/stm_vacancies.php:21
+msgid "Department"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:173
+#: consulting/vc_templates/stm_vacancies.php:20
+msgid "Location"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:177
+msgid "Education"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:181
+msgid "Compensation"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:185
+msgid "Contact Us Link"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:198
+#: consulting/inc/visual_composer.php:422
+#: consulting/inc/visual_composer.php:1105
+#: consulting/inc/visual_composer.php:1119
+#: consulting/inc/customizer/registration.php:187
+#: consulting/inc/customizer/registration.php:252
+msgid "Address"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:202
+#: consulting/inc/visual_composer.php:427
+#: consulting/inc/visual_composer.php:1124
+msgid "Phone"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:206
+#: consulting/inc/visual_composer.php:457
+#: consulting/inc/visual_composer.php:810
+#: consulting/inc/customizer/registration.php:21
+msgid "Skype"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:210
+#: consulting/inc/visual_composer.php:432
+#: consulting/inc/visual_composer.php:805
+#: consulting/inc/visual_composer.php:1129
+msgid "Email"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:214
+#: consulting/inc/visual_composer.php:437
+#: consulting/inc/customizer/registration.php:4
+msgid "Facebook"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:218
+#: consulting/inc/visual_composer.php:442
+#: consulting/inc/customizer/registration.php:5
+msgid "Twitter"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:222
+#: consulting/inc/visual_composer.php:452
+#: consulting/inc/customizer/registration.php:7
+msgid "Google+"
+msgstr ""
+
+#: consulting/inc/post_types-config.php:226
+#: consulting/inc/visual_composer.php:447
+#: consulting/inc/customizer/registration.php:9
+msgid "Linkedin"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:105
+msgid "Gallery type"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:108
+msgid "Image grid"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:109
+msgid "Slick slider"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:110
+msgid "Slick slider 2"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:115
+msgid "Thumbnail size"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:124
+#: consulting/inc/visual_composer.php:152
+#: consulting/inc/visual_composer.php:180
+#: consulting/inc/visual_composer.php:319
+#: consulting/inc/visual_composer.php:402
+#: consulting/inc/visual_composer.php:469
+#: consulting/inc/visual_composer.php:538
+#: consulting/inc/visual_composer.php:640
+#: consulting/inc/visual_composer.php:684
+#: consulting/inc/visual_composer.php:729
+#: consulting/inc/visual_composer.php:770
+#: consulting/inc/visual_composer.php:815
+#: consulting/inc/visual_composer.php:843
+#: consulting/inc/visual_composer.php:999
+#: consulting/inc/visual_composer.php:1048
+#: consulting/inc/visual_composer.php:1097
+#: consulting/inc/visual_composer.php:1154
+#: consulting/inc/visual_composer.php:1196
+#: consulting/inc/visual_composer.php:1210
+#: consulting/inc/visual_composer.php:1223
+#: consulting/inc/visual_composer.php:1236
+#: consulting/inc/visual_composer.php:1249
+#: consulting/inc/visual_composer.php:1287
+#: consulting/inc/visual_composer.php:1442
+#: consulting/inc/visual_composer.php:1456
+#: consulting/inc/visual_composer.php:1469
+#: consulting/inc/visual_composer.php:1482
+#: consulting/inc/visual_composer.php:1522
+msgid "Css"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:126
+#: consulting/inc/visual_composer.php:154
+#: consulting/inc/visual_composer.php:182
+#: consulting/inc/visual_composer.php:321
+#: consulting/inc/visual_composer.php:404
+#: consulting/inc/visual_composer.php:471
+#: consulting/inc/visual_composer.php:540
+#: consulting/inc/visual_composer.php:642
+#: consulting/inc/visual_composer.php:686
+#: consulting/inc/visual_composer.php:731
+#: consulting/inc/visual_composer.php:772
+#: consulting/inc/visual_composer.php:817
+#: consulting/inc/visual_composer.php:845
+#: consulting/inc/visual_composer.php:1001
+#: consulting/inc/visual_composer.php:1050
+#: consulting/inc/visual_composer.php:1099
+#: consulting/inc/visual_composer.php:1198
+#: consulting/inc/visual_composer.php:1289
+#: consulting/inc/visual_composer.php:1444
+#: consulting/inc/visual_composer.php:1524
+msgid "Design options"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:133
+msgid "Responsiveness"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:135
+msgid "Width & Responsiveness"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:136
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:143
+#: consulting/inc/tgm/tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:146
+msgid "Type 1"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:147
+msgid "Type 2"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:161
+msgid "Video Width"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:166
+msgid "Preview Image"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:171
+#: consulting/inc/visual_composer.php:386
+#: consulting/inc/visual_composer.php:794
+#: consulting/inc/visual_composer.php:1042
+msgid "Image Size"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:173
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:189
+#: consulting/inc/visual_composer.php:590
+#: consulting/inc/customizer/registration.php:315
+#: consulting/inc/customizer/registration.php:347
+#: consulting/inc/customizer/registration.php:379
+#: consulting/inc/customizer/registration.php:411
+#: consulting/inc/customizer/registration.php:443
+msgid "Icon"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:196
+msgid "Icon Size (px)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:203
+msgid "Subtitle"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:212
+msgid "Gap"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:215
+msgid "0px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:216
+msgid "1px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:217
+msgid "2px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:218
+msgid "3px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:219
+msgid "4px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:220
+msgid "5px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:221
+msgid "10px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:222
+msgid "15px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:223
+msgid "20px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:224
+msgid "25px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:225
+msgid "30px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:226
+msgid "35px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:227
+msgid "40px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:228
+msgid "45px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:229
+msgid "50px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:230
+msgid "55px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:231
+msgid "60px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:234
+msgid "Select gap between grid elements."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:242
+#: consulting/inc/visual_composer.php:1384
+#: consulting/inc/visual_composer.php:1432
+msgid "Color"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:244
+msgid "Select button color."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:247
+msgid "Theme Style 1"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:248
+msgid "Theme Style 2"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:249
+msgid "Theme Style 3"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:250
+msgid "Theme Style 4"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:251
+msgid "Classic Grey"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:252
+msgid "Classic Blue"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:253
+msgid "Classic Turquoise"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:254
+msgid "Classic Green"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:255
+msgid "Classic Orange"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:256
+msgid "Classic Red"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:257
+msgid "Classic Black"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:267
+msgid "Sub Title"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:287
+#: consulting/inc/visual_composer.php:297
+#: consulting/vc_templates/stm_works.php:31
+msgid "All"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:306
+msgid "Company History"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:310
+#: consulting/inc/visual_composer.php:331
+#: consulting/inc/visual_composer.php:354
+#: consulting/inc/visual_composer.php:412
+#: consulting/inc/visual_composer.php:479
+#: consulting/inc/visual_composer.php:548
+#: consulting/inc/visual_composer.php:650
+#: consulting/inc/visual_composer.php:694
+#: consulting/inc/visual_composer.php:739
+#: consulting/inc/visual_composer.php:780
+#: consulting/inc/visual_composer.php:833
+#: consulting/inc/visual_composer.php:855
+#: consulting/inc/visual_composer.php:893
+#: consulting/inc/visual_composer.php:1010
+#: consulting/inc/visual_composer.php:1062
+#: consulting/inc/visual_composer.php:1109
+#: consulting/inc/visual_composer.php:1150
+#: consulting/inc/visual_composer.php:1164
+#: consulting/inc/visual_composer.php:1259
+#: consulting/inc/visual_composer.php:1298
+#: consulting/inc/visual_composer.php:1491
+msgid "STM"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:314
+#: consulting/inc/visual_composer.php:340
+#: consulting/inc/visual_composer.php:367
+#: consulting/inc/visual_composer.php:417
+#: consulting/inc/visual_composer.php:484
+#: consulting/inc/visual_composer.php:553
+#: consulting/inc/visual_composer.php:655
+#: consulting/inc/visual_composer.php:1113
+#: consulting/inc/visual_composer.php:1371
+#: consulting/inc/visual_composer.php:1420
+#: consulting/inc/customizer/registration.php:295
+#: consulting/inc/customizer/registration.php:327
+#: consulting/inc/customizer/registration.php:359
+#: consulting/inc/customizer/registration.php:391
+#: consulting/inc/customizer/registration.php:423
+msgid "Title"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:328
+msgid "Item"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:335
+msgid "Year"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:345
+#: consulting/inc/visual_composer.php:392
+msgid "Description"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:352
+msgid "Our Partner"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:358
+#: consulting/inc/visual_composer.php:502
+#: consulting/inc/visual_composer.php:596
+#: consulting/inc/visual_composer.php:714
+#: consulting/inc/visual_composer.php:1168
+#: consulting/inc/visual_composer.php:1495
+msgid "Style"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:361
+#: consulting/inc/visual_composer.php:505
+#: consulting/inc/visual_composer.php:717
+#: consulting/inc/customizer/registration.php:233
+#: consulting/partials/frontend_customizer.php:16
+msgid "Style 1"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:362
+#: consulting/inc/visual_composer.php:506
+#: consulting/inc/visual_composer.php:718
+#: consulting/inc/customizer/registration.php:234
+#: consulting/partials/frontend_customizer.php:17
+msgid "Style 2"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:372
+#: consulting/inc/customizer/registration.php:61
+#: consulting/inc/customizer/registration.php:466
+msgid "Logo"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:388
+#: consulting/inc/visual_composer.php:796
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"default\" size."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:397
+#: consulting/inc/visual_composer.php:527
+#: consulting/inc/visual_composer.php:765
+#: consulting/inc/visual_composer.php:910
+msgid "Link"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:410
+msgid "Contacts"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:462
+#: consulting/inc/visual_composer.php:922
+#: consulting/inc/visual_composer.php:1091
+msgid "Extra class name"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:465
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:477
+msgid "Info Box"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:489
+#: consulting/inc/visual_composer.php:789
+msgid "Image"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:494
+msgid "Align Center"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:497
+#: consulting/inc/visual_composer.php:905
+#: consulting/inc/visual_composer.php:932
+#: consulting/inc/visual_composer.php:954
+#: consulting/inc/visual_composer.php:1316
+msgid "Yes"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:507
+#: consulting/inc/customizer/registration.php:235
+#: consulting/partials/frontend_customizer.php:18
+msgid "Style 3"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:512
+msgid "Title Icon"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:522
+#: consulting/inc/visual_composer.php:635
+msgid "Text"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:532
+msgid "Link Icon"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:546
+msgid "Icon Box"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:561
+msgid "Hide Title Line"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:569
+msgid "Enable Hexagon"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:577
+msgid "Enable Hexagon Hover Animation"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:585
+msgid "Enable Middle Align"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:599
+msgid "Icon Top"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:600
+msgid "Icon Left"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:601
+msgid "Icon Left Transparent"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:606
+msgid "Icon Size"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:609
+msgid "Enter icon size in px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:613
+msgid "Icon Height"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:616
+msgid "Enter icon height in px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:624
+msgid "Icon Width"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:627
+msgid "Enter icon width in px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:648
+msgid "Stats Counter"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:660
+msgid "Counter Value"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:666
+msgid "Counter Value Prefix"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:672
+msgid "Counter Value Suffix"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:678
+msgid "Duration"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:698
+#: consulting/inc/visual_composer.php:749
+#: consulting/inc/visual_composer.php:1190
+msgid "Count"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:704
+#: consulting/inc/visual_composer.php:755
+msgid "Testimonials Per Row"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:723
+#: consulting/inc/visual_composer.php:743
+msgid "Category"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:737
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:778
+msgid "Contact"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:800
+msgid "Job"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:823
+msgid "Select"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:831
+msgid "STM Sidebar"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:837
+msgid "Code"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:851
+msgid "Animation Block"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:860
+msgid "Animation"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:866
+msgid "Animation Duration (s)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:869
+msgid "How long the animation effect should last. Decides the speed of effect."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:873
+msgid "Animation Delay (s)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:876
+msgid "Delays the animation effect for seconds you enter above."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:880
+msgid "Viewport Position (%)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:883
+msgid "The area of screen from top where animation effects will start working."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:890
+msgid "Image Carousel"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:897
+msgid "Images"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:902
+msgid "Enable Opacity"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:915
+#: consulting/inc/visual_composer.php:1280
+#: consulting/inc/visual_composer.php:1515
+msgid "Image size"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:918
+#: consulting/inc/visual_composer.php:1283
+#: consulting/inc/visual_composer.php:1518
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use default size."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:924
+#: consulting/inc/visual_composer.php:1093
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:928
+msgid "Slider autoplay"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:930
+msgid "Enable autoplay mode."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:934
+#: consulting/inc/visual_composer.php:946
+#: consulting/inc/visual_composer.php:956
+#: consulting/inc/visual_composer.php:963
+#: consulting/inc/visual_composer.php:971
+#: consulting/inc/visual_composer.php:979
+#: consulting/inc/visual_composer.php:987
+#: consulting/inc/visual_composer.php:995
+msgid "Carousel"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:938
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:941
+msgid "Autoplay interval timeout (in ms)."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:950
+msgid "Slider loop"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:952
+msgid "Enable slider loop mode."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:960
+msgid "Smart Speed"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:967
+msgid "Items"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:970
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:975
+msgid "Items (Small Desktop)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:978
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 3 items."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:983
+msgid "Items (Tablet)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:986
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 2 items."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:991
+msgid "Items (Mobile)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:994
+msgid "Number of items the carousel will display. Default: at <479px - 1 item."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1007
+#: consulting/partials/title_box.php:39 consulting/partials/title_box.php:40
+#: consulting/woocommerce/archive-product.php:37
+#: consulting/woocommerce/single-product.php:37
+msgid "News"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1014
+msgid "Query"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1023
+#: consulting/inc/visual_composer.php:1269
+msgid "Posts Per Row"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1037
+msgid "Disable Preview Image"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1044
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use default size."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1056
+msgid "Google Map"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1066
+msgid "Map Height"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1069
+msgid "Enter map height in px"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1073
+msgid "Map Zoom"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1079
+msgid "Marker Image"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1086
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1134
+msgid "Latitude"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1136
+#: consulting/inc/visual_composer.php:1142
+msgid ""
+"<a href=\"http://www.latlong.net/convert-address-to-lat-long.html\">Here is "
+"a tool</a> where you can find Latitude & Longitude of your location"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1140
+msgid "Longitude"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1161
+msgid "Staff List"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1171
+msgid "List"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1172
+#: consulting/inc/visual_composer.php:1498
+msgid "Grid"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1177
+msgid "Staff Per Row"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1204
+msgid "Details"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1206
+#: consulting/inc/visual_composer.php:1219
+#: consulting/inc/visual_composer.php:1232
+#: consulting/inc/visual_composer.php:1245
+msgid "STM Post Partials"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1217
+msgid "Bottom Info"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1230
+msgid "About Author"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1243
+msgid "Comments"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1263
+msgid "Number Posts"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1295
+msgid "Charts"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1302
+msgid "Design"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1305
+msgid "Line"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1306
+msgid "Bar"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1307
+msgid "Circle"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1308
+msgid "Pie"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1313
+msgid "Show legend?"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1315
+msgid "If checked, chart will have legend."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1321
+msgid "Legend Position"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1324
+msgid "Bottom"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1325
+#: consulting/inc/customizer/registration.php:834
+#: consulting/inc/customizer/registration.php:879
+msgid "Right"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1330
+msgid "Width (px)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1335
+msgid "Height (px)"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1340
+msgid "X-axis values"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1350
+#: consulting/inc/visual_composer.php:1394
+msgid "Values"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1358
+#: consulting/inc/visual_composer.php:1402
+msgid "One"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1363
+#: consulting/inc/visual_composer.php:1407
+msgid "Two"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1373
+#: consulting/inc/visual_composer.php:1422
+msgid "Enter title for chart dataset."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1378
+msgid "Y-axis values"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1380
+msgid "Enter values for axis (Note: separate values with \";\")."
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1412
+msgid "Three"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1427
+msgid "Value"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1450
+msgid "About Vacancy"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1452
+#: consulting/inc/visual_composer.php:1465
+msgid "STM Vacancy Partials"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1463
+msgid "Vacancy Bottom"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1476
+msgid "Staff Bottom"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1478
+msgid "STM Staff Partials"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1489
+msgid "Our Works"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1499
+msgid "Grid with filter"
+msgstr ""
+
+#: consulting/inc/visual_composer.php:1504
+msgid "Cols"
+msgstr ""
+
+#: consulting/inc/woocommerce_configuration.php:9
+msgid "by"
+msgstr ""
+
+#: consulting/inc/customizer/google-fonts.php:7
+#: consulting/inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:6
+msgid "Instagram"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:8
+msgid "Vimeo"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:10
+msgid "Behance"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:11
+msgid "Dribbble"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:12
+msgid "Flickr"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:13
+msgid "Git"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:14
+msgid "Pinterest"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:15
+msgid "Yahoo"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:16
+msgid "Delicious"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:17
+msgid "Dropbox"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:18
+msgid "Reddit"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:19
+msgid "Soundcloud"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:20
+msgid "Google"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:22
+msgid "Youtube"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:23
+msgid "Tumblr"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:24
+msgid "Whatsapp"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:25
+msgid "Odnoklassniki"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:26
+msgid "Vk"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:31
+msgid "Site Settings"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:35
+msgid "Header"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:39
+msgid "Footer"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:43
+msgid "Post Types"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:47
+msgid "Typography"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:53
+msgid "Logo &amp; Title"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:65
+msgid "Dark Logo"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:69
+#: consulting/inc/customizer/registration.php:470
+msgid "Width"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:76
+#: consulting/inc/customizer/registration.php:477
+msgid "Height"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:83
+msgid "Margin Top"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:90
+msgid "Margin Bottom"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:103
+msgid "Static Front Page"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:108
+msgid "Style &amp; Settings"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:112
+msgid "Skin"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:115
+msgid "Default"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:116
+msgid "Turquoise"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:117
+msgid "Dark Denim"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:118
+msgid "Arctic &amp; Black"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:119
+msgid "Custom Colors"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:123
+msgid "Custom Base Color"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:128
+msgid "Custom Secondary Color"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:133
+msgid "Custom Third Color"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:138
+msgid "Frontend Customizer"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:143
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:158
+msgid "Custom Bg Image"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:165
+msgid "Enable Top Bar"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:171
+msgid "Enable WPML Switcher"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:182
+msgid "Office "
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:184
+msgid "for dropdown options"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:191
+#: consulting/inc/customizer/registration.php:257
+msgid "Address Icon"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:196
+#: consulting/inc/customizer/registration.php:265
+msgid "Working Hours"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:200
+msgid "Hours Icon"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:205
+#: consulting/inc/customizer/registration.php:278
+msgid "Phone number"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:209
+msgid "Phone Icon"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:219
+msgid "Top Bar"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:225
+msgid "Header Appearance"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:229
+#: consulting/partials/frontend_customizer.php:13
+msgid "Header Style"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:236
+#: consulting/partials/frontend_customizer.php:19
+msgid "Style 4"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:240
+msgid "Sticky Menu"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:270
+msgid "Working Hours Icon"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:283
+msgid "Phone number Icon"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:300
+#: consulting/inc/customizer/registration.php:332
+#: consulting/inc/customizer/registration.php:364
+#: consulting/inc/customizer/registration.php:396
+#: consulting/inc/customizer/registration.php:428
+msgid "Plural Title"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:305
+#: consulting/inc/customizer/registration.php:337
+#: consulting/inc/customizer/registration.php:369
+#: consulting/inc/customizer/registration.php:401
+#: consulting/inc/customizer/registration.php:433
+msgid "All Items"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:310
+#: consulting/inc/customizer/registration.php:342
+#: consulting/inc/customizer/registration.php:374
+#: consulting/inc/customizer/registration.php:406
+#: consulting/inc/customizer/registration.php:438
+msgid "Rewrite (URL text)"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:451
+#: consulting/inc/customizer/registration.php:916
+msgid "Socials"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:462
+#: consulting/inc/customizer/registration.php:793
+#: consulting/partials/frontend_customizer.php:32
+msgid "Layout"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:487
+msgid "Additional Widget Areas"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:491
+msgid "Disable"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:502
+msgid "Footer Text"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:504
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:507
+msgid "Copyright"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:516
+msgid "Footer Socials"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:527
+msgid "Body"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:531
+msgid "Base Font Family"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:537
+msgid "Secondary Font Family"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:568
+#: consulting/inc/customizer/registration.php:589
+#: consulting/inc/customizer/registration.php:618
+#: consulting/inc/customizer/registration.php:647
+#: consulting/inc/customizer/registration.php:676
+#: consulting/inc/customizer/registration.php:705
+#: consulting/inc/customizer/registration.php:734
+#: consulting/inc/customizer/registration.php:763
+msgid "Font Weight"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:574
+#: consulting/inc/customizer/registration.php:595
+#: consulting/inc/customizer/registration.php:624
+#: consulting/inc/customizer/registration.php:653
+#: consulting/inc/customizer/registration.php:682
+#: consulting/inc/customizer/registration.php:711
+#: consulting/inc/customizer/registration.php:740
+#: consulting/inc/customizer/registration.php:769
+msgid "Font Size"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:585
+msgid "Paragraph"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:603
+#: consulting/inc/customizer/registration.php:632
+#: consulting/inc/customizer/registration.php:661
+#: consulting/inc/customizer/registration.php:690
+#: consulting/inc/customizer/registration.php:719
+#: consulting/inc/customizer/registration.php:748
+#: consulting/inc/customizer/registration.php:777
+msgid "Line Height"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:614
+msgid "H1"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:643
+msgid "H2"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:672
+msgid "H3"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:701
+msgid "H4"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:730
+msgid "H5"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:759
+msgid "H6"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:788
+msgid "Archive Pages"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:795
+msgid "Grid View"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:796
+msgid "List View"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:805
+#: consulting/inc/customizer/registration.php:850
+msgid "Sidebar Type"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:807
+#: consulting/inc/customizer/registration.php:852
+msgid "Wordpress Sidebars"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:818
+#: consulting/inc/customizer/registration.php:863
+msgid "Wordpress Sidebar"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:831
+#: consulting/inc/customizer/registration.php:876
+msgid "Sidebar - Position"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:833
+#: consulting/inc/customizer/registration.php:878
+msgid "Left"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:845
+msgid "Shop Pages"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:887
+msgid "Products Per Page"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:898
+msgid "One Click update"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:903
+msgid "Envato Username"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:908
+msgid "Envato API Key"
+msgstr ""
+
+#: consulting/inc/customizer/registration.php:927
+msgid "Custom CSS"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr ""
+
+#: consulting/inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:399
+#: consulting/inc/tgm/tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:828
+#: consulting/inc/tgm/tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:935
+#: consulting/inc/tgm/tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2443
+#: consulting/woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3370
+#: consulting/inc/tgm/tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3370
+#: consulting/inc/tgm/tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: consulting/inc/tgm/tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: consulting/inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: consulting/inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: consulting/inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: consulting/inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: consulting/partials/content-about_author.php:8
+msgid "Author:"
+msgstr ""
+
+#: consulting/partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr ""
+
+#: consulting/partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr ""
+
+#: consulting/partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr ""
+
+#: consulting/partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr ""
+
+#: consulting/partials/content-loop_list.php:11
+#: consulting/partials/content-post_details.php:8
+msgid "Posted by:"
+msgstr ""
+
+#: consulting/partials/content-loop_list.php:12
+#: consulting/partials/content-post_details.php:11
+msgid "Category:"
+msgstr ""
+
+#: consulting/partials/content-loop_list.php:30
+#: consulting/vc_templates/stm_services.php:44
+msgid "read more"
+msgstr ""
+
+#: consulting/partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: consulting/partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: consulting/partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: consulting/partials/content-page.php:20 consulting/partials/content.php:35
+msgid "Pages:"
+msgstr ""
+
+#: consulting/partials/content-page.php:24
+msgid "Page"
+msgstr ""
+
+#: consulting/partials/content-post_bottom.php:10
+#: consulting/partials/content-vacancy_bottom.php:13
+msgid "Share"
+msgstr ""
+
+#: consulting/partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr ""
+
+#: consulting/partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr ""
+
+#: consulting/partials/content-vacancy_bottom.php:5
+msgid "get a quote"
+msgstr ""
+
+#: consulting/partials/frontend_customizer.php:3
+msgid "Color Skin"
+msgstr ""
+
+#: consulting/partials/frontend_customizer.php:23
+msgid "Nav Mode"
+msgstr ""
+
+#: consulting/partials/frontend_customizer.php:26
+msgid "Static"
+msgstr ""
+
+#: consulting/partials/frontend_customizer.php:28
+msgid "Sticky"
+msgstr ""
+
+#: consulting/partials/frontend_customizer.php:35
+msgid "Wide"
+msgstr ""
+
+#: consulting/partials/frontend_customizer.php:37
+msgid "Boxed"
+msgstr ""
+
+#: consulting/partials/title_box.php:39 consulting/partials/title_box.php:40
+#: consulting/woocommerce/archive-product.php:37
+#: consulting/woocommerce/single-product.php:37
+msgid "Careers"
+msgstr ""
+
+#: consulting/vc_templates/stm_contact.php:24
+msgid "Email: "
+msgstr ""
+
+#: consulting/vc_templates/stm_contact.php:27
+msgid "Skype: "
+msgstr ""
+
+#: consulting/vc_templates/stm_info_box.php:49
+msgid "Read More"
+msgstr ""
+
+#: consulting/vc_templates/stm_partner.php:61
+msgid "visit website"
+msgstr ""
+
+#: consulting/vc_templates/stm_staff_list.php:46
+#: consulting/vc_templates/stm_staff_list.php:49
+msgid "view profile"
+msgstr ""
+
+#: consulting/vc_templates/stm_vacancies.php:19
+msgid "Job Posting Title"
+msgstr ""
+
+#: consulting/vc_templates/stm_vacancies.php:22
+#: consulting/woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:65
+msgid "Add a review"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:65
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:73
+msgid "Name *"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:78
+msgid "E-mail *"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:93
+msgid "Your Rating"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:99
+msgid "Very Poor"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:104
+msgid "Your Review"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:106
+msgid "add review"
+msgstr ""
+
+#: consulting/woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: consulting/woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart-totals.php:33
+#: consulting/woocommerce/cart/cart-totals.php:34
+#: consulting/woocommerce/checkout/review-order.php:62
+msgid "Subtotal"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart-totals.php:55
+#: consulting/woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart-totals.php:91
+#: consulting/woocommerce/cart/cart-totals.php:92
+#: consulting/woocommerce/cart/cart.php:102
+#: consulting/woocommerce/checkout/review-order.php:30
+#: consulting/woocommerce/checkout/review-order.php:109
+#: consulting/woocommerce/myaccount/my-orders.php:28
+msgid "Total"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:33
+msgid "product name"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:34
+msgid "price"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:35
+msgid "quantity"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:36
+msgid "total"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:52
+#: consulting/woocommerce/checkout/review-order.php:29
+msgid "Product"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:79
+msgid "Price"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:85
+msgid "Quantity"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:113
+msgid "Remove this item"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:132
+msgid "Coupon"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:132
+#: consulting/woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:132
+#: consulting/woocommerce/checkout/form-coupon.php:39
+msgid "Apply Coupon"
+msgstr ""
+
+#: consulting/woocommerce/cart/cart.php:138
+msgid "update cart"
+msgstr ""
+
+#: consulting/woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr ""
+
+#: consulting/woocommerce/cart/shipping-calculator.php:32
+msgid "Calculate Shipping"
+msgstr ""
+
+#: consulting/woocommerce/cart/shipping-calculator.php:38
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: consulting/woocommerce/cart/shipping-calculator.php:55
+#: consulting/woocommerce/cart/shipping-calculator.php:61
+#: consulting/woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr ""
+
+#: consulting/woocommerce/cart/shipping-calculator.php:62
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: consulting/woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: consulting/woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: consulting/woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-billing.php:28
+msgid "billing &amp; shipping"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-billing.php:32
+msgid "billing details"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-login.php:34
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-shipping.php:40
+msgid "ship to a different address?"
+msgstr ""
+
+#: consulting/woocommerce/checkout/form-shipping.php:74
+msgid "Additional Information"
+msgstr ""
+
+#: consulting/woocommerce/checkout/payment.php:24
+msgid "payment"
+msgstr ""
+
+#: consulting/woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: consulting/woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: consulting/woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: consulting/woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: consulting/woocommerce/checkout/review-order.php:24
+msgid "your order"
+msgstr ""
+
+#: consulting/woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr ""
+
+#: consulting/woocommerce/global/form-login.php:37
+#: consulting/woocommerce/myaccount/form-login.php:46
+#: consulting/woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: consulting/woocommerce/global/form-login.php:45
+#: consulting/woocommerce/myaccount/form-login.php:53
+msgid "Login"
+msgstr ""
+
+#: consulting/woocommerce/global/form-login.php:48
+#: consulting/woocommerce/myaccount/form-login.php:55
+msgid "Remember me"
+msgstr ""
+
+#: consulting/woocommerce/global/form-login.php:52
+#: consulting/woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr ""
+
+#: consulting/woocommerce/loop/result-count.php:38
+msgid "Showing the single result"
+msgstr ""
+
+#: consulting/woocommerce/loop/result-count.php:40
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr ""
+
+#: consulting/woocommerce/loop/result-count.php:42
+#, php-format
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/form-login.php:36
+msgid "login"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/form-login.php:43
+msgid "Username or email address"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/form-login.php:72
+msgid "register"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/form-login.php:81
+msgid "Username"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/form-login.php:99
+msgid "Anti-spam"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/form-login.php:106
+msgid "Register"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-address.php:25
+msgid "my addresses"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-address.php:27
+#: consulting/woocommerce/myaccount/my-address.php:33
+msgid "billing address"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-address.php:28
+msgid "shipping address"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-address.php:31
+msgid "my address"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-address.php:43
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-address.php:53
+msgid "edit"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-address.php:72
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-orders.php:67
+msgid "#"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr ""
+
+#: consulting/woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr ""
+
+#: consulting/woocommerce/single-product/meta.php:34
+msgid "SKU:"
+msgstr ""
+
+#: consulting/woocommerce/single-product/meta.php:34
+msgid "N/A"
+msgstr ""
+
+#: consulting/woocommerce/single-product/related.php:50
+msgid "related products"
+msgstr ""
+
+#: consulting/woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: consulting/woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: consulting/woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: consulting/woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+msgid "read more"
+msgstr ""

@@ -1,0 +1,100 @@
+.stm_testimonials{
+  position: relative;
+  margin: 0 -15px;
+  font-size: 0;
+  &.cols_2{
+    .item{
+      width: 50%;
+    }
+  }
+  &.cols_3{
+    .item{
+      width: 33%;
+    }
+  }
+  &.style_2{
+    .item{
+      .testimonial{
+        background: #f2f2f2;
+        &:before{
+          bottom: -3px;
+          right: -3px;
+        }
+        &:after{
+          background-image: url("assets/images/testimonials_before_2.png");
+        }
+      }
+    }
+  }
+  .item{
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 15px;
+    margin: 0 0 43px;
+    .testimonial{
+      position: relative;
+      border: 3px solid #f2f2f2;
+      padding: 21px 28px 32px;
+      margin: 0 0 20px;
+      &:before{
+        content: "\e90b";
+        @include theme_icons();
+        font-size: 48px;
+        color: $stm_third_color;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 58px;
+        height: 40px;
+        overflow: hidden;
+      }
+      &:after{
+        content: '';
+        position: absolute;
+        left: 62px;
+        bottom: -33px;
+        width: 30px;
+        height: 33px;
+        background: url("assets/images/testimonials_before.png") no-repeat 0 0;
+        background-size: 15px 18px;
+      }
+      p{
+        margin: 0;
+      }
+    }
+    .testimonial-info{
+      position: relative;
+      @include cleaner();
+      .testimonial-image{
+        max-width: 50px;
+        display: table-cell;
+        vertical-align: middle;
+        img{
+          max-width: 100%;
+          height: auto;
+          overflow: hidden;
+          @include border-radius(100%);
+        }
+      }
+      .testimonial-text{
+        display: table-cell;
+        vertical-align: middle;
+        padding: 0 0 0 15px;
+        .name{
+          font-size: 13px;
+          font-weight: 600;
+          color: #222;
+          line-height: 20px;
+          font-family: Poppins;
+        }
+        .company{
+          font-size: 13px;
+          color: #808080;
+          line-height: 20px;
+          font-style: italic;
+        }
+      }
+    }
+  }
+}
